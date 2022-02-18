@@ -1,4 +1,4 @@
-package com.fictivestudios.cryptocurrencyapp.presentation.coin_list.components
+package com.fictivestudios.cryptocurrencyapp.presentation.coin_list
 
 import com.fictivestudios.cryptocurrencyapp.domain.model.Coin
 

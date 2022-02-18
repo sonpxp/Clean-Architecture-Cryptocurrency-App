@@ -1,4 +1,4 @@
-package com.fictivestudios.cryptocurrencyapp.presentation.coin_list.components
+package com.fictivestudios.cryptocurrencyapp.presentation.coin_list
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
